@@ -13,3 +13,9 @@ main {
 #reset {
   margin: 20px;
 }
+.error{
+  color: red;
+}
+.error2{
+  color: blue;
+}
